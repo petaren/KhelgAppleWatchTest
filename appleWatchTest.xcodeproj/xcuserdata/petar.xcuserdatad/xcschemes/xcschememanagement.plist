@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CountController.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Glance - appleWatchTest WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Notification - appleWatchTest WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>appleWatchTest WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>appleWatchTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D2E309AF1A9D1EAF007928F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D2E309C41A9D1EB0007928F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D2E309E71A9D1EC6007928F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D2E30A021A9D2D3B007928F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D2E30A0C1A9D2D3B007928F7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
